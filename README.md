@@ -1,10 +1,10 @@
 ---
-layout: default
+About me
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to google scholar](https://scholar.google.co.uk/citations?user=5iR2sf0AAAAJ&hl=en).
 
 There should be whitespace between paragraphs.
 

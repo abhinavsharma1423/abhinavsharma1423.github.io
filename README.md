@@ -4,7 +4,7 @@ About me
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to google scholar](https://scholar.google.co.uk/citations?user=5iR2sf0AAAAJ&hl=en)
+[Link to google scholar]
 
 There should be whitespace between paragraphs.
 
